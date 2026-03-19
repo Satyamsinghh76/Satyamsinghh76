@@ -61,6 +61,3 @@ Currently exploring deeper into AI/ML and system design.
 
 ---
 
-## ⚡ Fun Fact
-
-I focus on building real-world systems, not just demo projects 🚀
