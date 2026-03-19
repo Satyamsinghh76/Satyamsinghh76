@@ -42,13 +42,12 @@ Currently exploring deeper into AI/ML and system design.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyamsinghh76&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyamsinghh76&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyamsinghh76&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyamsinghh76&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamsinghh76&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 🔥 Top Projects
