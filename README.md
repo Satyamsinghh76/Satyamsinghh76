@@ -26,7 +26,7 @@ Currently exploring deeper into AI/ML and system design.
 
 <p>
   <a href="https://github.com/Satyamsinghh76">GitHub</a> |
-  <a href="https://linkedin.com/in/YOUR-LINK">LinkedIn</a>
+  <a href="[https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/satyam-singh-88988a279/)">LinkedIn</a>
 </p>
 
 ---
