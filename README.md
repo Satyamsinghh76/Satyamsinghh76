@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Satyam Singh</h1>
 
 <p align="center">
-  Full Stack Developer | SaaS | AI/ML | System Design
+  Full Stack Developer | SaaS | AI/ML 
 </p>
 
 ---
