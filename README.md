@@ -16,7 +16,6 @@ I’ve built production-style applications like:
 - SaaS Booking Platform
 - Real-time Finance Tracker
 - Fraud Detection System
-- Recommendation Engine
 
 Currently exploring deeper into AI/ML and system design.
 
