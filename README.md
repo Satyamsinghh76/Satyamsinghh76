@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Satyam Singh</h1>
+<h1 align="center">Hi there , I'm Satyam Singh</h1>
 
 <p align="center">
   Full Stack Developer | SaaS | AI/ML 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I'm a Full Stack Developer focused on building scalable SaaS platforms, real-time systems, and AI-driven applications.
 
