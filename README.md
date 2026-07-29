@@ -22,17 +22,17 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyamsinghh76&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyamsinghh76&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satyamsinghh76&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamsinghh76&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Satyamsinghh76&theme=tokyonight" />
 </p>
----
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyamsinghh76&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
 
 ## 🔥 Top Projects
 
