@@ -1,25 +1,10 @@
 <h1 align="center">Hi there , I'm Satyam Singh</h1>
 
 <p align="center">
-  Full Stack Developer | SaaS | AI/ML 
+  Engineer
 </p>
 
----
 
-##  About Me
-
-I'm a Full Stack Developer focused on building scalable SaaS platforms, real-time systems, and AI-driven applications.
-
-I enjoy designing end-to-end systems — from frontend interfaces to backend architecture, databases, and real-time data flows.
-
-I’ve built production-style applications like:
-- SaaS Booking Platform
-- Real-time Finance Tracker
-- Fraud Detection System
-
-Currently exploring deeper into AI/ML and system design.
-
----
 
 ## 🌐 Connect with Me
 
