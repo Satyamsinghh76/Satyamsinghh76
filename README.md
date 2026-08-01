@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi 👋, I'm Satyam Singh
+Hi , I'm Satyam Singh
 </h1>
 
 <h3 align="center">
@@ -38,34 +38,34 @@ Building scalable web applications, AI-powered systems, and developer tools.
 
 ---
 
-# ⭐ Featured Projects
+#  Featured Projects
 
-### 🤖 Computer-Use Agent (CUA)
+###  Computer-Use Agent (CUA)
 Desktop AI Agent that observes the screen, reasons using an LLM, and performs actions autonomously through an Observe → Decide → Execute loop.
 
 ---
 
-### 📅 BookFlow
+###  BookFlow
 Production-style SaaS Booking Platform with secure authentication, PostgreSQL, booking conflict prevention, notifications, and modern backend architecture.
 
 ---
 
-### 💰 SpendSense
+###  SpendSense
 AI-powered Personal Finance Tracker featuring real-time expense management, OCR support, analytics, and intelligent financial assistance.
 
 ---
 
-### 🛡️ Credit Card Fraud Detection
+###  Credit Card Fraud Detection
 Machine Learning project using Logistic Regression for fraud detection with data preprocessing, feature engineering, and Streamlit deployment.
 
 ---
 
-### 📊 Sales & Customer Analytics Dashboard
+###  Sales & Customer Analytics Dashboard
 Interactive analytics dashboard built using SQL, Python, Pandas, Streamlit, and data visualization for business insights.
 
 ---
 
-### 🌍 Travel Itinerary Generator
+###  Travel Itinerary Generator
 AI-assisted trip planner that generates customized travel itineraries with PDF export and modern full-stack architecture.
 
 ---
@@ -93,8 +93,4 @@ AI-assisted trip planner that generates customized travel itineraries with PDF e
 - GitHub: https://github.com/Satyamsinghh76
 - LinkedIn: https://www.linkedin.com/in/satyam-singh-88988a279
 
----
 
-<p align="center">
-⭐ If you like my work, consider giving a star to my repositories.
-</p>
