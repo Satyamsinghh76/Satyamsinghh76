@@ -21,52 +21,20 @@ Building scalable web applications, AI-powered systems, and developer tools.
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
-- 💻 Software Engineering & Full Stack Development
-- 🤖 Building AI Agents and LLM-powered applications
-- 🌐 Interested in Backend Systems, AI, and System Design
-- 📚 Always learning and building production-style projects
+-  Software Engineering & Full Stack Development
+-  Building AI Agents and LLM-powered applications
+-  Interested in Backend Systems, AI, and System Design
+-  Always learning and building production-style projects
 
 ---
 
-# 🚀 Tech Stack
+#  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,vscode" />
 </p>
-
----
-
-#  Featured Projects
-
-###  Computer-Use Agent (CUA)
-Desktop AI Agent that observes the screen, reasons using an LLM, and performs actions autonomously through an Observe → Decide → Execute loop.
-
----
-
-###  BookFlow
-Production-style SaaS Booking Platform with secure authentication, PostgreSQL, booking conflict prevention, notifications, and modern backend architecture.
-
----
-
-###  SpendSense
-AI-powered Personal Finance Tracker featuring real-time expense management, OCR support, analytics, and intelligent financial assistance.
-
----
-
-###  Credit Card Fraud Detection
-Machine Learning project using Logistic Regression for fraud detection with data preprocessing, feature engineering, and Streamlit deployment.
-
----
-
-###  Sales & Customer Analytics Dashboard
-Interactive analytics dashboard built using SQL, Python, Pandas, Streamlit, and data visualization for business insights.
-
----
-
-###  Travel Itinerary Generator
-AI-assisted trip planner that generates customized travel itineraries with PDF export and modern full-stack architecture.
 
 ---
 
